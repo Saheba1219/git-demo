@@ -1,0 +1,19 @@
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "description": "This is my first Git Repository.\r <br>\r Author- sahiba parween.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saheba1219/git-demo.git"
+  },
+  "author": "sahiba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saheba1219/git-demo/issues"
+  },
+  "homepage": "https://github.com/Saheba1219/git-demo#readme"
+}
