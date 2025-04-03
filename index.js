@@ -1,4 +1,4 @@
-var a=30;
-var b=40;
+var a=40;
+var b=50;
 var c=a+b;
-console.log("sum is:",c);
+console.log("sum of two number:",c);
