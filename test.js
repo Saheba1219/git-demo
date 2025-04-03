@@ -1,1 +1,1 @@
-console.log("Welocme to learning Github tutorial classes.");
+console.log("Welocme to learning Github tutorial coaching.");
